@@ -41,10 +41,15 @@ public class day5 {
 		//btn.submit();
 		
 		
-		driver.get("http://www.webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html");
-		System.out.println(driver.findElement(By.cssSelector("input[value= 'lettuce']")).isEnabled());
-		System.out.println(driver.findElement(By.cssSelector("input[value= 'cabbage']")).isEnabled());
-		System.out.println(driver.findElement(By.cssSelector("input[value= 'pumpkin']")).isSelected());
+//		driver.get("http://www.webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html");
+//		System.out.println(driver.findElement(By.cssSelector("input[value= 'lettuce']")).isEnabled());
+//		System.out.println(driver.findElement(By.cssSelector("input[value= 'cabbage']")).isEnabled());
+//		System.out.println(driver.findElement(By.cssSelector("input[value= 'pumpkin']")).isSelected());
+//		
+		
+		
+		
+		
 		
 		
 		
