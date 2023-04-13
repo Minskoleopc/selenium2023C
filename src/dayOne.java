@@ -6,6 +6,7 @@ public class dayOne {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		
+		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\ankurjain\\Desktop\\chromedriver\\chromedriver.exe");
 		
 		//open browser

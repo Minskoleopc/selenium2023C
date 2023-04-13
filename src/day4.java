@@ -14,19 +14,22 @@ public class day4 {
 		//<h1 id = "one" class = "two" name = "nm">Hello</h1>
 		WebElement  checkBoxOne = driver.findElement(By.cssSelector("input[value ='option-1']"));
 	
-		// sendKeys()
-		// isDisplayed()
-		// isSelected()
-		// submit()
-		// isEnabled()
-		// getLocation()
-		// clear()
-		// getText()
-		// getTagName()
-		// getCssValue()
-		// getAttribute()
-		// click()
-		// getSize()
+		// sendKeys()    // return
+		// isDisplayed() // boolean
+		// isSelected()  // boolean
+		// submit()      // form 
+		// isEnabled()   // boolean
+		// getLocation() // Point
+		// clear()       // removes something from input string
+		// getText()     // String
+		// getTagName()  // String 
+		// getCssValue() // String
+		// getAttribute()// String
+		// click()       // String
+		// getSize()     // Dimension
+		
+		// as developer , we create webelement , we update , we retrive , we delete
+		// as test  , we validate , create ,update . re
 		
 		
 	
